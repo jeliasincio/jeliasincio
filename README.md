@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 -->
 <h2>👋 ¿Quién soy?</h2>
 <ul>
-  <li>Soy un desarrollador Junior con poca experiencia profesional, pero estoy comprometido en aprender y mejorar mis habilidades en este campo.</li>
+  <li>Soy Bachiller en Sistemas y Full-Stack Developer junior con conocimientos en JavaScript, Node.js, Express, React, Redux, PostgresSQL, Html, CSS, Boostrap, MaterialUI, Mysql, PHP, Laravel, SQLServer y CorelDraw. 
+
+Durante mi formación, he trabajado en varios proyectos que han mejorado mis habilidades en el diseño y desarrollo de aplicaciones web, desde la creación de interfaces de usuario hasta la implementación de bases de datos.
+
+Me interesa el desarrollo web como una forma de crear soluciones innovadoras y eficientes para problemas reales. He participado en varios cursos donde he adquirido los fundamentos del desarrollo web y he realizado proyectos como freelance para empresas en Perú.
+
+Tengo experiencia trabajando en equipo, lo que me ha permitido mejorar mis habilidades de comunicación y colaboración. Me gusta estar al día con las últimas tendencias y herramientas del desarrollo web y aprender constantemente nuevas habilidades.</li>
 </ul>
 
 <h2>💻 ¿Qué hago?</h2>
