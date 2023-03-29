@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </ul>
 <h2>🚀 ¿A dónde me dirijo?</h2>
 <ul>
-  <li>Mi objetivo laboral actual es trabajar en una empresa donde pueda seguir creciendo como desarrollador y aplicar mis habilidades para ayudar a crear productos de alto impacto.</li>
+  <li>Mi objetivo laboral actual es trabajar en una empresa donde pueda seguir creciendo como desarrollador y aplicar mis habilidades para ayudar a crear productos y servicios de alta calidad.</li>
 </ul>
 
 <h2>🛠 ¿Qué tecnologías uso?</h2>
